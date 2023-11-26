@@ -8,7 +8,7 @@ https://github.com/katayoon-faraji-web/trick4/assets/144775981/db68c0cc-93c5-4fa
 
 - Developed by katayoon faraji
 
-- 🗓️Created - 2023-10
+- 🗓️Created - 2023-10-07
 
 - 💻Technologies Used - Html , Css , Css3 , Animation,Sass
 
